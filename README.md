@@ -48,7 +48,7 @@ Logistic Regression + Outlier Removal + Variance Inflation Factor
 7. **Decision Boundary**: 
    To visualize the model’s decision-making process, we plotted a decision boundary between two key features: `age` and `cholesterol`. This gave us insight into how the model classifies patients based on these features.
 
-   - **Visual Result**: ![Alt text](relative/path/to/image.png)
+   - **Visual Result**: ![Alt text](relative/path/to/2.png)
 
   
 
