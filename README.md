@@ -33,14 +33,8 @@ Logistic Regression + Outlier Removal + Variance Inflation Factor
 
    - **Accuracy**: **84.7%**
    - **Precision, Recall, F1-Score**: 
-     - For **Class 0** (no heart disease):
-       - Precision: **88%**
-       - Recall: **81%**
-       - F1-Score: **84%**
-     - For **Class 1** (heart disease):
-       - Precision: **82%**
-       - Recall: **88%**
-       - F1-Score: **85%**
+     - For **Class 0** (no heart disease): Precision: **88%**, Recall: **81%**, F1-Score: **84%**
+     - For **Class 1** (heart disease): Precision: **82%**, Recall: **88%**, F1-Score: **85%**
 
    - **Confusion Matrix**: 
      - **Class 0 (No Heart Disease)**: 79 true negatives, 18 false positives.
