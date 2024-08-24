@@ -45,10 +45,10 @@ Logistic Regression + Outlier Removal + Variance Inflation Factor
      - **Class 0 (No Heart Disease)**: 79 true negatives, 18 false positives.
      - **Class 1 (Heart Disease)**: 82 true positives, 11 false negatives.
 
-7. **Decision Boundary**: 
-   To visualize the model’s decision-making process, we plotted a decision boundary between two key features: `age` and `cholesterol`. This gave us insight into how the model classifies patients based on these features.
+7. **Decision Boundary**:
 
-   - **Visual Result**: ![Alt text](relative/path/to/2.png)
+   
+     ![Alt text](2.png)
 
   
 
