@@ -1,4 +1,5 @@
-# Heart-Disease-Dataset-UCI
+# Heart-Disease-Dataset-UCI 
+(https://www.kaggle.com/datasets/ketangangal/heart-disease-dataset-uci)
 Logistic Regression + Outlier Removal + Variance Inflation Factor 
 
 ### Methodology:
